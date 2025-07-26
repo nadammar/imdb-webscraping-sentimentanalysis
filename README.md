@@ -1,10 +1,10 @@
-# IMDb Web Scraping & Sentiment Analysis
+# 🎬 IMDb Web Scraping & Sentiment Analysis
 
 ##  Project Description
 
 This project aims to **scrape detailed movie information and user reviews from IMDb** using Python's **BeautifulSoup** library, then perform a **sentiment analysis** to determine the overall audience opinion. Finally, the results are **visualized with charts** for better interpretation.
 
-##  Features
+## 🛠️ Features
 
 *  **Data collection** of the following fields:
 
@@ -17,9 +17,9 @@ This project aims to **scrape detailed movie information and user reviews from I
   * `metascore`: Metacritic score
   * `movie_link`: IMDb URL
   * `user reviews`: used for sentiment analysis
-*  **Sentiment analysis** (positive, neutral, negative) on user reviews
-* 📋 **Result visualization** using **Matplotlib** and/or **Seaborn**
-* 📋 Export collected data in **CSV** format
+* 🧠 **Sentiment analysis** (positive, neutral, negative) on user reviews
+* 📊 **Result visualization** using **Matplotlib** and/or **Seaborn**
+* 💾 Export collected data in **CSV** format
 
 ## 📚 Libraries Used
 
@@ -34,20 +34,14 @@ This project aims to **scrape detailed movie information and user reviews from I
 1. **Clone the project**
 
    ```bash
-   git clone https://github.com/your-username/imdb-webscraping-sentiment.git
-   cd imdb-webscraping-sentiment
+   git clone https://github.com/your-username/imdb-webscraping-sentimentanalysis.git
+   cd imdb-webscraping-sentimentanalysis
    ```
 
-2. **Install dependencies**
+2. **Open the Jupyter Notebook**
 
    ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the main script**
-
-   ```bash
-   python main.py
+   jupyter notebook Scraping_Sentiment_Analysis.ipynb
    ```
 
 4. **View the outputs**
@@ -77,3 +71,6 @@ This project aims to **scrape detailed movie information and user reviews from I
 * Word cloud showing the most frequent words in the reviews
 
 
+## 👨‍💻 Author
+
+Project developed by **\[Nada Ammar]** as part of a data science project.
