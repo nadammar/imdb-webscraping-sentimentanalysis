@@ -73,4 +73,4 @@ This project aims to **scrape detailed movie information and user reviews from I
 
 ## 👨‍💻 Author
 
-Project developed by **\[Nada Ammar]** as part of a data science project.
+Project developed by **\Nada Ammar** as part of a data science project.
