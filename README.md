@@ -67,7 +67,7 @@ This project aims to **scrape detailed movie information and user reviews from I
 
 ### **Visualization Examples**
 
-* Sentiment distribution chart (Positive, Neutral, Negative)
+* Sentiment distribution chart (Positive, Negative)
 * Word cloud showing the most frequent words in the reviews
 
 
