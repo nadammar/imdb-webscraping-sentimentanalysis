@@ -1,5 +1,4 @@
-# imdb-webscraping-sentimentanalysis
-# 🎜 IMDb Web Scraping & Sentiment Analysis
+# IMDb Web Scraping & Sentiment Analysis
 
 ##  Project Description
 
