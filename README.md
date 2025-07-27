@@ -34,7 +34,7 @@ This project aims to **scrape detailed movie information and user reviews from I
 1. **Clone the project**
 
    ```bash
-   git clone https://github.com/your-username/imdb-webscraping-sentimentanalysis.git
+   git clone https://github.com/nadammar/imdb-webscraping-sentimentanalysis.git
    cd imdb-webscraping-sentimentanalysis
    ```
 
